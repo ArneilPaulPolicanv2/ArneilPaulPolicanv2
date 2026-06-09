@@ -4,7 +4,7 @@
 
 Software Engineer with **8+ years** building full stack web applications and managing infrastructure, plus **3+ years** running blockchain nodes. I design CI/CD pipelines, automate provisioning with Infrastructure-as-Code, and keep distributed systems highly available across on-prem and cloud environments. I've led engineering teams of 3–5 and mentored on automation and DevOps best practices.
 
-📍 Lapu-lapu City, Cebu, PH · Open to full-time, part-time, freelance & remote
+📍 Lapu-lapu City, Cebu, PH · Open to part-time, freelance & remote
 
 ---
 
