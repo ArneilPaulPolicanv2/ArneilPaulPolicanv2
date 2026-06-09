@@ -13,7 +13,7 @@ Software Engineer with **8+ years** building full stack web applications and man
 - 🚀 Designing CI/CD pipelines with **GitHub Actions** and rolling out IaC practices
 - ⛓️ Operating & maintaining **Ethereum** and **Substrate / Polkadot** blockchain nodes
 - 🖥️ Managing full server infrastructure lifecycle on **Proxmox VE** and Linux
-- 🌱 Always leveling up on observability tooling
+- 🌱 Always leveling up on DevsSecOps and observability tooling
 
 ---
 
